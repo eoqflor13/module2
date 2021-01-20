@@ -1,6 +1,10 @@
 .row {
   width: 100%;
-  color: blue;
+}
+
+.row > div {
+  border: 2px solid red;
+  background-color: gray;
 }
 
 @media (max-width:767px) {  /*mobile*/
