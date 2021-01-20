@@ -1,5 +1,6 @@
 .row {
   width: 100%;
+  color: blue;
 }
 
 @media (max-width:767px) {  /*mobile*/
