@@ -19,7 +19,7 @@ body{
 
 }
 
-.row div{
+.row p{
 	margin: 10px;
 }
 
@@ -58,7 +58,7 @@ body{
     width: 100%;
   }	
 
-  .row p{
+  .row span{
   	font-family: sans-serif;
   	font-weight: bold;
  
@@ -96,7 +96,7 @@ body{
     width: 100%;
   }	
 
-  .row p{
+  .row span{
   	font-family: sans-serif;
   	font-weight: bold;
     border: 1px solid black;
@@ -124,7 +124,7 @@ body{
   	float: left;
     width: 100%;
 }
-  .row p{
+  .row span{
   	font-family: sans-serif;
   	font-weight: bold;
     border: 1px solid black;
