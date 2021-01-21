@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 .row {
   width: 100%;
 }
@@ -116,16 +120,10 @@ body{
    margin-right: auto;
    margin-left: auto;
   }
-  .col-lg-1 {
-    width:33.33%;
-  }
-  .col-lg-2 {
-    width: 66,66%;
-  }
-  .col-lg-3 {
+  .col-sx-12 {
+  	float: left;
     width: 100%;
-  }
-
+}
   .row p{
   	font-family: sans-serif;
   	font-weight: bold;
