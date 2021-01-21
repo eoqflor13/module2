@@ -26,9 +26,12 @@
   }	
 
   .row p{
+  	text-align: center;
+  	font-family: sans-serif;
+  	font-weight: bold;
   	background: pink;
     border: 1px solid black;
-
+    background-position: top right;
   }
 
 }
